@@ -56,5 +56,6 @@ public class Main {
 
         // Save modified data to disk
         manager.saveData("dishes.dat", "orders.dat");
+        System.out.println("Finish the program:");
     }
 }
